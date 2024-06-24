@@ -1,0 +1,12 @@
+@font-face{
+    font-family: poopins;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face{
+    font-family: poopins-lite;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face{
+    font-family: south-q;
+    src: url(../fonts/SouthQDemoRegular.ttf);
+}
